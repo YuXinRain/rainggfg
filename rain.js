@@ -1,3 +1,5 @@
 123;
 456;
-789;
+for (var i = 1; i < 5; i++) {
+  Comsole.log(i);
+}
